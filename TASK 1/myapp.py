@@ -1,4 +1,5 @@
 import random
+
 import pyfiglet
 
 print(pyfiglet.figlet_format("HANGMAN  GAME"))
